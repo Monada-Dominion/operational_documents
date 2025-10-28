@@ -26,7 +26,7 @@ All files in this repository constitute the legal and organizational backbone fo
 ## License
 
 All materials in this repository are distributed under the *Monada Dominion Custom License (MD-CL)*.  
-You may view the full license text [here](https://github.com/Monada-Dominion/operational_policy/blob/main/LICENSE).
+You may view the full license text [here](https://github.com/Monada-Dominion/operational_documents/blob/main/LICENSE).
 
 Usage, reproduction, or redistribution of MD-owned hardware/software architecture, specifications, or documentation is only permitted under the terms specified in this license.  
 Any unauthorized use or resale of MD intellectual property is strictly prohibited.
